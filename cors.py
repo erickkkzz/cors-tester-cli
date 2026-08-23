@@ -1,0 +1,1 @@
+def check(h): return h.get('Access-Control-Allow-Origin') == '*'
